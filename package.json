@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "testting purpose only",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
